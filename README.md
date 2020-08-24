@@ -1,16 +1,17 @@
-### Hi there 👋
+![v2-284ac248b2c81ea05e5ef09fc09a1811_r](https://gitee.com/wonderfuleight/blogImg/raw/master//20200824211008.jpg)
 
-<!--
-**wonderfuleight/wonderfuleight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 &nbsp;Hey there! I'm Wangba
 
-Here are some ideas to get you started:
+### 😯 About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### I'm a student of USTC, I'm a Javaer (Java NO.1 !!!)
+
+#### Welcome to my website: [wangba's blogs](https://wonderfuleight.github.io/)
+
+
+
+
+
+
+
+
